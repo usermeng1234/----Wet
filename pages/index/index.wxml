@@ -4,4 +4,4 @@
 </view>
 
 
-<button bindtap='onAction' >  查看岗位 </button>
+<button bindtap='onAction' >  查看 </button>
